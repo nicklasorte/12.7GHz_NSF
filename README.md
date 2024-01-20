@@ -1,0 +1,11 @@
+
+Download the files.
+Run the matlab file:
+https://github.com/nicklasorte/12.7GHz_NSF/blob/main/initialize_github_NSF_12dot7GHz_rev1.m
+
+
+You'll need to also download:
+
+https://github.com/nicklasorte/general_terrestrial_pathloss
+
+https://github.com/nicklasorte/Generic_Bugsplat
