@@ -1,3 +1,7 @@
+First, check to see if ITM/Matlab is setup correctly.
+
+Run: https://github.com/nicklasorte/itm_matlab_example
+
 
 Download the files.
 Run the matlab file:
