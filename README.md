@@ -3,7 +3,8 @@ First, check to see if ITM/Matlab is setup correctly.
 Run: https://github.com/nicklasorte/itm_matlab_example
 
 
-Download the files.
+Then download the files from this repository.
+
 Run the matlab file:
 https://github.com/nicklasorte/12.7GHz_NSF/blob/main/initialize_github_NSF_12dot7GHz_rev1.m
 
